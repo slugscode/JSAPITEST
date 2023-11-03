@@ -1,0 +1,16 @@
+{
+  "name": "jsapitest",
+  "version": "1.0.0",
+  "description": "mocha chai test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/comments.js"
+  },
+  "author": "anisya",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
